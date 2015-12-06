@@ -12,7 +12,7 @@ public class App
 		//Read user input.  Print it out.
 
 		//Ask for number from user, convert it to int, and print
-		
+
 	}
 
 
