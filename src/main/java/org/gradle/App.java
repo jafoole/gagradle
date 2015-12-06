@@ -9,9 +9,7 @@ public class App
 	{
 		//Write a method to get a string input from the user and return it
 
-		//Write a method that takes two numbers as parameters, and prints the product of them
-
-		//Ask the user to enter two numbers, get and convert both, and call your method
+		//Write a method that takes a string parameter and prints it out with "You said: ", and the string param
 	}
 
 }
