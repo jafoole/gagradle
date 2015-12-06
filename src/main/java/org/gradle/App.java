@@ -7,16 +7,17 @@ public class App
 {
 	public static void main(String[] args)
 	{
-		concatStrings();
+		//Create a string variable, set it, and print it
+
+		//Read user input.  Print it out.
+
+		//Ask for number from user, convert it to int, and print
+		
 	}
 
-	private static void concatStrings()
-	{
-		String lastBit = "a string";
-		String wholeString = "This is "+ lastBit;
 
-		System.out.println(wholeString);
-	}
+
+
 }
 
 
